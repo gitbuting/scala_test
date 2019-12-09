@@ -1,2 +1,5 @@
 def f2():Unit={
 }
+
+def f3(i:Int):Int={
+}
